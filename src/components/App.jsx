@@ -80,6 +80,7 @@ function APP(){
     }
     
     function Get_Notes(data){
+        
         console.log('getting all notes')
         const uri = url+'/Notes/'+data;
       console.log(uri);
