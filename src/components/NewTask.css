@@ -1,0 +1,33 @@
+.newtask_cnt{
+
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 20px;
+    border-radius: 10px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newtask{
+    background-color: burlywood;
+    width: 80%;
+    border-radius: 8px;
+    border-width: 0px;
+    padding: 10px;
+    
+}
+
+.newtask::placeholder{
+font-style: italic;
+
+}
+
+.newtask_btn{
+    border-radius: 10px;
+    border-width: 1px;
+    padding: 8px;
+    margin: 10px;
+}

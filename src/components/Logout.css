@@ -1,0 +1,21 @@
+
+.logout_cnt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    align-self: center;
+    width: 80%;
+    height: 100px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+.logout_btn 
+{
+
+    background-color: burlywood;
+    border-width: 0px;
+    border-radius: 10px;
+
+}
